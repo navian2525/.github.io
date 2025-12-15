@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-color: #555;
 font-size: 0.9rem;
 }
 nav a:hover {
